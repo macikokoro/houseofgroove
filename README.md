@@ -2,6 +2,8 @@
 
 Homepage@ houseofgroovedj.com
 
+This is the static branch with working PHP contact form.
+
 Technologies
 
 - Bootstrap
